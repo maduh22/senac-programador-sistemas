@@ -46,7 +46,8 @@
             Usuario.Name = "Usuario";
             Usuario.Size = new Size(113, 23);
             Usuario.TabIndex = 0;
-            Usuario.TextChanged += textBox1_TextChanged;
+
+         
             // 
             // Senha
             // 
@@ -91,7 +92,6 @@
             resultado.Size = new Size(38, 15);
             resultado.TabIndex = 5;
             resultado.Text = "label3";
-            resultado.Click += label3_Click;
             // 
             // imageList1
             // 
